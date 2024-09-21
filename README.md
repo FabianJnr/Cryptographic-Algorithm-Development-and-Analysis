@@ -7,6 +7,4 @@ This repository contains implementations of various cryptographic algorithms des
 
 Feel free to download, fork, and experiment with the algorithms. This is an open-source project aimed at helping others learn more about cryptographic techniques and their applications.
 
-Before you get started, make sure to download the required libraries and set up a virtual environment for testing and analysis.
-
 Enjoy exploring cryptography and stay secure!
